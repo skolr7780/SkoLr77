@@ -1,12 +1,12 @@
 Package: com.skolr77.crackcutecut
-Version: 1.0.0-1
+Version: 1.
 Section: Tweaks
 Maintainer: SkoLr77 <skolr7780@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (<13.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.skolr77.mzkptsgj_0.0.1-1+debug_iphoneos-arm.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: 
 Description: 13 and above
 Name: CrackCutecut
 Author: SkoLr77
