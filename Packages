@@ -5,10 +5,10 @@ Maintainer: SkoLr77
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.skolr77.mzkptsgj_0.2.deb
-Size: 2,516
-MD5sum:a51eb24469b0166420b36287b338e092
-SHA1:c210c21a142ae55d83911caff9521897bbc57238
-SHA256:4edc51dd4915e89f7149f457b38f6116b57950f73b9dfa49c0e474827e43aace
+Size: 2516
+MD5sum: a51eb24469b0166420b36287b338e092
+SHA1: c210c21a142ae55d83911caff9521897bbc57238
+SHA256: 4edc51dd4915e89f7149f457b38f6116b57950f73b9dfa49c0e474827e43aace
 Description: 13 and above
 Name: CrackCutecut
 Author: SkoLr77
