@@ -2,7 +2,7 @@ Package: com.skolr77.crackcutecut
 Version: 0.1
 Section: Tweaks
 Maintainer: SkoLr77 
-Depends: firmware (<13.0)
+Depends: firmware (<11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.skolr77.mzkptsgj_0.0.1-1+debug_iphoneos-arm.deb
 Size: 2,516
