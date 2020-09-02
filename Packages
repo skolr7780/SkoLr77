@@ -14,3 +14,20 @@ Name: CrackCutecut
 Author: SkoLr77
 Depiction: https://skolr7780.github.io/SkoLr77/depictions/?p=com.skolr77.crackcutecut
 
+
+
+Package: org.af.afsocial
+Version: 1.0-1-1
+Section: Tweaks
+Maintainer: SkoLr77 
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/org.mr.afsocial_1.0-1-1k_iphoneos-arm.deb
+Size: 1771008
+MD5sum: 749247a1a90fd48cd84edbe6e2082163
+SHA1: eaa7778d23f6750db2677acc465be3fc701735be
+SHA256: 3c042cc5cf468c10ef4f92140799091b1777c2ca235eadbc905bfbb7f7f75277
+Description: 13 and above
+Name: AFSocial
+Author: Azooz ALFiras
+Depiction: https://skolr7780.github.io/SkoLr77/depictions/?p=org.af.afsocial

@@ -1,0 +1,24 @@
+<package>
+	<id>org.mr.afsocial</id>
+	<name>AFSocial</name>
+	<version>1.0-1-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+			
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> AFSocial </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links></links>
+</package>
