@@ -91,9 +91,10 @@
   text-align: justify;
 }
 
-.bg img {
+.bg  {
     /* The image used */
-    background-image: url(/CArd/Bg.jpg);
+    
+
   
     /* Full height */
     height: 100%; 
