@@ -91,9 +91,9 @@
   text-align: justify;
 }
 
-.bg {
+.bg img {
     /* The image used */
-    background-image: url("Bg.jpg");
+    
   
     /* Full height */
     height: 100%; 
