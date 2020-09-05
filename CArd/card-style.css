@@ -90,3 +90,16 @@
   margin-top: 1rem;
   text-align: justify;
 }
+
+.bg {
+    /* The image used */
+    background-image: url("Bg.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
