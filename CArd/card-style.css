@@ -92,9 +92,7 @@
 }
 
 .bg img {
- 
-
-  
+  background-image: url(bg.jpg);
     /* Full height */
     height: 100%; 
   
